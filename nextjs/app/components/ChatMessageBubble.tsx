@@ -404,7 +404,7 @@ export function ChatMessageBubble(props: {
               }}
               isLoading={traceIsLoading}
               loadingText="🔄"
-              color={"white"}
+              color={"black"}
             >
               🦜🛠️ View trace
             </Button>
